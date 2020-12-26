@@ -1,2 +1,6 @@
 # hello-world
-This is First repository in GitHub
+
+Hi there!
+
+Ayush here, I like Node.js and Coffeescript
+I'vs had tacos on the moon and find them far superior to Earth tacos.
